@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="MIK">
+  <title>MIK</title>
+  <rect width="64" height="64" fill="none"/>
+  <circle cx="32" cy="32" r="30" fill="#0a192f" />
+  <text x="32" y="32" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" font-size="28">MIK</text>
+</svg>
